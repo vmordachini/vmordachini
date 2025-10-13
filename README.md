@@ -36,9 +36,9 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub de Victor](https://github-readme-stats.vercel.app/api?username=VictorMordachini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Estatísticas do GitHub de Victor](https://github-readme-stats.vercel.app/api?username=vmordachini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMordachini&layout=compact&langs_count=7&theme=dracula)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vmordachini&layout=compact&langs_count=7&theme=dracula)
 
 ---
 
